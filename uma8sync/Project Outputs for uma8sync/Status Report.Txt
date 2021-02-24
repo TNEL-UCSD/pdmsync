@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [uma8sync.PrjPcb]
+   Generated File[uma8sync.TXT]
+   Generated File[uma8sync.LDP]
+   Generated File[uma8sync.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 7:28:19 PM On 11/29/2020

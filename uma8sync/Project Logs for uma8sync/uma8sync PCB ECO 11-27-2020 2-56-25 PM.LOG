@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=clk Pin=P_uma-1
+Removed Pin From Net: NetName=data Pin=P_uma-2
+Added Pin To Net: NetName=data Pin=P_uma-1
+Added Pin To Net: NetName=clk Pin=P_uma-2

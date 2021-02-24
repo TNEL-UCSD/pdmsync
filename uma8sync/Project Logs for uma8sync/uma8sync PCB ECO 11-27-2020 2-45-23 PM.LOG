@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=P_div Old DesignItemId=Header 3H New DesignItemId=Header 3
+Change Component Footprint: Designator=P_div Old Footprint=HDR1X3H New Footprint=HDR1X3
+Change Component Comment : Designator=P_div Old Comment=Header 3H New Comment=Header 3
+Change Component Description : Designator=P_div Old Description=Header, 3-Pin, Right Angle New Description=Header, 3-Pin
